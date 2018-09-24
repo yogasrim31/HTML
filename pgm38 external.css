@@ -1,0 +1,21 @@
+h2
+{ text-align : center; }
+ol
+{ list-style-type : lower-alpha; }
+ul
+{ list-style-type : circle; }
+div.a
+{ font-size : 13px; }
+div.b
+{ text-align : center; }
+p
+{ font-size : 20px; }
+table
+{
+outline-style : solid;
+ }
+td
+{
+ font-family : Cambria, Calibri, Serif;
+ font-size : 15px; 
+}
